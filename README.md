@@ -41,13 +41,8 @@ CREATE TABLE posts (
 - Run the following command:  
 
 ```sh
-git clone https://github.com/yourusername/blog-system.git
-cd blog-system
+git clone https://github.com/basilnagah/Blog
+cd Blog
 
 
-### 2️⃣ Running the Project
-1- Move the project to your server’s root directory (htdocs for XAMPP, www for WAMP).
-2- Start Apache & MySQL.
-3- Open your browser and navigate to:
-👉 http://localhost/blog-system
-🚀 You should now see the blog homepage!
+
