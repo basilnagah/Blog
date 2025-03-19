@@ -34,10 +34,16 @@ CREATE TABLE posts (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-## 🔧 Installation
-### 1️⃣ Clone the Repository 
+## 🔧 Installation  
+
+### 1️⃣ Clone the Repository  
+- Open a terminal or command prompt.  
+- Run the following command:  
+
+```sh
 git clone https://github.com/yourusername/blog-system.git
 cd blog-system
+
 
 ### 2️⃣ Running the Project
 1- Move the project to your server’s root directory (htdocs for XAMPP, www for WAMP).
